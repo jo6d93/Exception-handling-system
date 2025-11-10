@@ -1,0 +1,29 @@
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\MSExchange.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Release\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Release\Exception handling system.vbproj.GenerateResource.cache
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Release\Exception handling system.vbproj.CoreCompileInputs.cache
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Release\Exception handling system.vbproj.CopyComplete
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Release\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Release\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Release\Exception handling system.pdb
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.dll.config
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.pdb
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.xml
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\MSExchange.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exception handling system.vbproj.AssemblyReference.cache
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exception_handling_system.Resources.resources
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exception handling system.vbproj.GenerateResource.cache
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exception handling system.vbproj.CoreCompileInputs.cache
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exceptio.63306424.Up2Date
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exception handling system.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exception handling system.xml
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Release\Exception handling system.pdb

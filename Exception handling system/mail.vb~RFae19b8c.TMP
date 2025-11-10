@@ -1,0 +1,31 @@
+﻿Imports System.Net.Mail
+Imports System.Net
+
+Public Class mail
+
+    Public Shared Sub send_mail(ByVal to_mail As String, ByVal subject As String, ByVal body As String)
+        Try
+            Dim from_mail As String = "WAVE@DENSO.COM.TW"
+
+            Dim mail As MailMessage = New MailMessage(from_mail, to_mail)
+            mail.BodyEncoding = Encoding.UTF8
+            mail.Subject = subject
+            mail.IsBodyHtml = True
+
+
+            Dim html1 As String = "<html><head><title></title></head><body>"
+            Dim html2 As String = "</body></html>"
+
+            mail.Body = html1 + body + html2
+
+            Dim smtp As SmtpClient = New SmtpClient("172.30.1.1", 25)
+            Dim nc As NetworkCredential = New NetworkCredential("0013", "0013")
+            smtp.UseDefaultCredentials = False
+            smtp.Credentials = nc
+            smtp.Send(mail)
+
+        Catch ex As Exception
+            Dim str As String = ex.Message
+        End Try
+    End Sub
+End Class

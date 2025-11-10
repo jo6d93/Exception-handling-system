@@ -1,0 +1,2577 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Exception handling system
+</name>
+</assembly>
+<members>
+<member name="T:Exception_handling_system.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Exception_handling_system.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:Exception_handling_system.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:Exception_handling_system.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:Exception_handling_system.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:Exception_handling_system.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:Exception_handling_system.My.Resources.Resources">
+<summary>
+  用於查詢當地語系化字串等的強類型資源類別。
+</summary>
+</member>
+<member name="P:Exception_handling_system.My.Resources.Resources.ResourceManager">
+<summary>
+  傳回這個類別使用的快取的 ResourceManager 執行個體。
+</summary>
+</member>
+<member name="P:Exception_handling_system.My.Resources.Resources.Culture">
+<summary>
+  覆寫目前執行緒的 CurrentUICulture 屬性，對象是所有
+  使用這個強類型資源類別的資源查閱。
+</summary>
+</member>
+<member name="F:Exception_handling_system.Account_creat._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel3">
+<summary>
+Panel3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label1">
+<summary>
+Label1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._ImageButton2">
+<summary>
+ImageButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._ImageButton3">
+<summary>
+ImageButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._ImageButton4">
+<summary>
+ImageButton4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Table2">
+<summary>
+Table2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._user_name">
+<summary>
+user_name 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._LinkButton1">
+<summary>
+LinkButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel5">
+<summary>
+Panel5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Table4">
+<summary>
+Table4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._LinkButton3">
+<summary>
+LinkButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._LinkButton2">
+<summary>
+LinkButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Table5">
+<summary>
+Table5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label11">
+<summary>
+Label11 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Table1">
+<summary>
+Table1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label4">
+<summary>
+Label4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._TextBox1">
+<summary>
+TextBox1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label5">
+<summary>
+Label5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._TextBox2">
+<summary>
+TextBox2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label6">
+<summary>
+Label6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._TextBox3">
+<summary>
+TextBox3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label7">
+<summary>
+Label7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._TextBox4">
+<summary>
+TextBox4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label10">
+<summary>
+Label10 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._TextBox6">
+<summary>
+TextBox6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label8">
+<summary>
+Label8 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._DropDownList1">
+<summary>
+DropDownList1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label14">
+<summary>
+Label14 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._DropDownList3">
+<summary>
+DropDownList3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label20">
+<summary>
+Label20 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._DropDownList4">
+<summary>
+DropDownList4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label19">
+<summary>
+Label19 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._DropDownList7">
+<summary>
+DropDownList7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label9">
+<summary>
+Label9 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel6">
+<summary>
+Panel6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Table6">
+<summary>
+Table6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label13">
+<summary>
+Label13 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label16">
+<summary>
+Label16 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label15">
+<summary>
+Label15 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._DropDownList5">
+<summary>
+DropDownList5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._DropDownList2">
+<summary>
+DropDownList2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._DropDownList6">
+<summary>
+DropDownList6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel8">
+<summary>
+Panel8 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Table3">
+<summary>
+Table3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Button1">
+<summary>
+Button1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Button3">
+<summary>
+Button3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Button4">
+<summary>
+Button4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel7">
+<summary>
+Panel7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label18">
+<summary>
+Label18 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._GridView1">
+<summary>
+GridView1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Panel4">
+<summary>
+Panel4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label2">
+<summary>
+Label2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._TextBox5">
+<summary>
+TextBox5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Button2">
+<summary>
+Button2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Account_creat._Label12">
+<summary>
+Label12 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._Table1">
+<summary>
+Table1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._user_id">
+<summary>
+user_id 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._user_pass">
+<summary>
+user_pass 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system._Default._msg_error">
+<summary>
+msg_error 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Panel3">
+<summary>
+Panel3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label1">
+<summary>
+Label1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._ImageButton2">
+<summary>
+ImageButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._ImageButton3">
+<summary>
+ImageButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._ImageButton4">
+<summary>
+ImageButton4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Table4">
+<summary>
+Table4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._user_name">
+<summary>
+user_name 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._LinkButton1">
+<summary>
+LinkButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Table5">
+<summary>
+Table5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label4">
+<summary>
+Label4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._GridView1">
+<summary>
+GridView1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Panel4">
+<summary>
+Panel4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label10">
+<summary>
+Label10 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Table1">
+<summary>
+Table1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button4">
+<summary>
+Button4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button11">
+<summary>
+Button11 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label7">
+<summary>
+Label7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label2">
+<summary>
+Label2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._TextBox2">
+<summary>
+TextBox2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label6">
+<summary>
+Label6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._DropDownList1">
+<summary>
+DropDownList1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label11">
+<summary>
+Label11 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label9">
+<summary>
+Label9 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button1">
+<summary>
+Button1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button8">
+<summary>
+Button8 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._GridView4">
+<summary>
+GridView4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button5">
+<summary>
+Button5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button10">
+<summary>
+Button10 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label8">
+<summary>
+Label8 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label5">
+<summary>
+Label5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._TextBox3">
+<summary>
+TextBox3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button2">
+<summary>
+Button2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button9">
+<summary>
+Button9 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button3">
+<summary>
+Button3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label13">
+<summary>
+Label13 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._GridView3">
+<summary>
+GridView3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Panel5">
+<summary>
+Panel5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Table6">
+<summary>
+Table6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label12">
+<summary>
+Label12 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._TextBox4">
+<summary>
+TextBox4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button6">
+<summary>
+Button6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Panel6">
+<summary>
+Panel6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Table7">
+<summary>
+Table7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label14">
+<summary>
+Label14 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._TextBox6">
+<summary>
+TextBox6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Button7">
+<summary>
+Button7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Panel7">
+<summary>
+Panel7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_handle._Label15">
+<summary>
+Label15 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Panel3">
+<summary>
+Panel3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Label1">
+<summary>
+Label1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._ImageButton2">
+<summary>
+ImageButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._ImageButton3">
+<summary>
+ImageButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._ImageButton4">
+<summary>
+ImageButton4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Table1">
+<summary>
+Table1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._user_name">
+<summary>
+user_name 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._LinkButton1">
+<summary>
+LinkButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Table4">
+<summary>
+Table4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Label4">
+<summary>
+Label4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._DropDownList3">
+<summary>
+DropDownList3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Label7">
+<summary>
+Label7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._DropDownList2">
+<summary>
+DropDownList2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Label5">
+<summary>
+Label5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._DropDownList1">
+<summary>
+DropDownList1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._Label6">
+<summary>
+Label6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._btn_select">
+<summary>
+btn_select 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Exception_view._GridView1">
+<summary>
+GridView1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Panel3">
+<summary>
+Panel3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Label1">
+<summary>
+Label1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._ImageButton2">
+<summary>
+ImageButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._ImageButton3">
+<summary>
+ImageButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._ImageButton4">
+<summary>
+ImageButton4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Table4">
+<summary>
+Table4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._user_name">
+<summary>
+user_name 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._LinkButton1">
+<summary>
+LinkButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._LinkButton7">
+<summary>
+LinkButton7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._LinkButton6">
+<summary>
+LinkButton6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._LinkButton8">
+<summary>
+LinkButton8 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Table5">
+<summary>
+Table5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Label5">
+<summary>
+Label5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Table1">
+<summary>
+Table1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Label2">
+<summary>
+Label2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._DropDownList1">
+<summary>
+DropDownList1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Panel4">
+<summary>
+Panel4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Label4">
+<summary>
+Label4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Label6">
+<summary>
+Label6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._Label7">
+<summary>
+Label7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Home_page._GridView1">
+<summary>
+GridView1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Panel3">
+<summary>
+Panel3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Label1">
+<summary>
+Label1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._ImageButton2">
+<summary>
+ImageButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._ImageButton3">
+<summary>
+ImageButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._ImageButton4">
+<summary>
+ImageButton4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Table4">
+<summary>
+Table4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._user_name">
+<summary>
+user_name 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._LinkButton1">
+<summary>
+LinkButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Table5">
+<summary>
+Table5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Label7">
+<summary>
+Label7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Table1">
+<summary>
+Table1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Label4">
+<summary>
+Label4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._TextBox1">
+<summary>
+TextBox1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Label6">
+<summary>
+Label6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._TextBox3">
+<summary>
+TextBox3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Label2">
+<summary>
+Label2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._TextBox2">
+<summary>
+TextBox2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Label5">
+<summary>
+Label5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.Password_change._Button1">
+<summary>
+Button1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel3">
+<summary>
+Panel3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label1">
+<summary>
+Label1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._ImageButton2">
+<summary>
+ImageButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._ImageButton3">
+<summary>
+ImageButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._ImageButton4">
+<summary>
+ImageButton4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Table1">
+<summary>
+Table1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._user_name">
+<summary>
+user_name 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._LinkButton1">
+<summary>
+LinkButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Table4">
+<summary>
+Table4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label4">
+<summary>
+Label4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._DropDownList3">
+<summary>
+DropDownList3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label7">
+<summary>
+Label7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._DropDownList2">
+<summary>
+DropDownList2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label5">
+<summary>
+Label5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._DropDownList1">
+<summary>
+DropDownList1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label6">
+<summary>
+Label6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._btn_select">
+<summary>
+btn_select 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label13">
+<summary>
+Label13 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel4">
+<summary>
+Panel4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._GridView1">
+<summary>
+GridView1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel5">
+<summary>
+Panel5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label10">
+<summary>
+Label10 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel6">
+<summary>
+Panel6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Table2">
+<summary>
+Table2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Button4">
+<summary>
+Button4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Button11">
+<summary>
+Button11 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label2">
+<summary>
+Label2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label8">
+<summary>
+Label8 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._TextBox2">
+<summary>
+TextBox2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._GridView4">
+<summary>
+GridView4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Button5">
+<summary>
+Button5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Button10">
+<summary>
+Button10 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label14">
+<summary>
+Label14 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label15">
+<summary>
+Label15 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._TextBox3">
+<summary>
+TextBox3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._GridView3">
+<summary>
+GridView3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel7">
+<summary>
+Panel7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Table6">
+<summary>
+Table6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label17">
+<summary>
+Label17 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._TextBox4">
+<summary>
+TextBox4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Button6">
+<summary>
+Button6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel8">
+<summary>
+Panel8 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Table7">
+<summary>
+Table7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label18">
+<summary>
+Label18 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._TextBox6">
+<summary>
+TextBox6 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Button7">
+<summary>
+Button7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel9">
+<summary>
+Panel9 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label19">
+<summary>
+Label19 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Panel10">
+<summary>
+Panel10 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Label20">
+<summary>
+Label20 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._TextBox7">
+<summary>
+TextBox7 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.ReView1._Button12">
+<summary>
+Button12 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._form1">
+<summary>
+form1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Panel3">
+<summary>
+Panel3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Image1">
+<summary>
+Image1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Label3">
+<summary>
+Label3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._ImageButton1">
+<summary>
+ImageButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._ImageButton2">
+<summary>
+ImageButton2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._ImageButton3">
+<summary>
+ImageButton3 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._ImageButton4">
+<summary>
+ImageButton4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Panel2">
+<summary>
+Panel2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Table4">
+<summary>
+Table4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._user_name">
+<summary>
+user_name 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Label4">
+<summary>
+Label4 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._LinkButton1">
+<summary>
+LinkButton1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Panel1">
+<summary>
+Panel1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Label1">
+<summary>
+Label1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._TextBox1">
+<summary>
+TextBox1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Label2">
+<summary>
+Label2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._TextBox2">
+<summary>
+TextBox2 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Button1">
+<summary>
+Button1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._Label5">
+<summary>
+Label5 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+<member name="F:Exception_handling_system.special_case._GridView1">
+<summary>
+GridView1 控制項。
+</summary>
+<remarks>
+自動產生的欄位。
+若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+</remarks>
+</member>
+</members>
+</doc>

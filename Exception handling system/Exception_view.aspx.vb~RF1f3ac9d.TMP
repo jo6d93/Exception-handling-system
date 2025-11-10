@@ -1,0 +1,112 @@
+﻿Imports System.Drawing
+
+Public Class Exception_view
+    Inherits System.Web.UI.Page
+    Dim ds As DataSet
+    Dim ds1 As DataSet
+    Dim time As DateTime  'SQL系統時間
+    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        Try
+            Db.Set_Db("172.30.4.225", "DNTW_Warehouse")
+            user_name1()
+            dataview()
+            select_date()
+        Catch ex As Exception
+            Dim str As String = ex.Message
+        End Try
+    End Sub
+
+
+    Private Sub user_name1()
+        Try
+            Dim sql1 As String = "select USER_NAME from E_Training_Dept where user_id = '" & gl.user_id.Trim() & "'"
+            ds = Db.Get_DataSet(sql1)
+            If ds.Tables(0).Rows.Count > 0 Then
+                Dim dr As DataRow = ds.Tables(0).Rows(0)
+                user_name.Text = dr("USER_NAME").ToString()
+            End If
+        Catch ex As Exception
+            Dim str As String = ex.Message
+        End Try
+    End Sub
+
+    Private Sub dataview()
+        Try
+            Dim sql As String = "select 0 As no, 異常編號, 異常日期 ,異常種類,異常對象 ,計畫時間 ,實際時間 ,異常調查原因 ,再發防止,責任部屬 ,審核狀態 ,受入場 from Exception_view where 異常日期='" & Today.ToString("yyyy-MM-dd 00:00:00.000") & "'  ORDER BY 計畫時間 ASC"
+            ds = Db.Get_DataSet(sql)
+
+            For k As Integer = 0 To ds.Tables(0).Rows.Count - 1
+                Dim dr As DataRow
+                dr = ds.Tables(0).Rows(k)
+                dr("no") = k + 1
+            Next
+            GridView1.DataSource = ds.Tables(0)
+            GridView1.DataBind()
+
+
+        Catch ex As Exception
+            Dim str As String = ex.Message
+        End Try
+    End Sub
+
+    Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
+        gl.user_id = ""
+    End Sub
+
+
+    Protected Sub GridView1_RowDataBound(sender As Object, e As GridViewRowEventArgs) Handles GridView1.RowDataBound
+        'If (e.Row.RowType = DataControlRowType.DataRow) Then
+        '    Dim dept_id1 As String = DataBinder.Eval(e.Row.DataItem, "異常編號").ToString()
+        '    If dept_id1 = "0108:0062A79" Then
+        '        e.Row.BackColor = Color.Blue
+        '        e.Row.Cells(1).BackColor = Color.Yellow
+        '    End If
+        'End If
+
+    End Sub
+
+    'Protected Sub Button1_Click(sender As Object, e As EventArgs)
+
+    '    Dim btn As Button = sender
+    '    Dim 異常編號 As String = btn.CommandArgument.ToString()
+
+
+    'End Sub
+
+    Protected Sub GridView1_RowCommand(sender As Object, e As GridViewCommandEventArgs) Handles GridView1.RowCommand
+
+        If (CType(e.CommandSource, Button)).CommandName = "select" Then
+            Dim aa As String = "hello"
+        End If
+    End Sub
+
+
+    Private Sub select_date()
+        Dim a As String = Today.ToString("dd")
+        Dim b As String = Today.ToString("MM")
+        Dim x As String = Today.ToString("yyyy")
+        Dim y As String = x - 2
+
+
+        For i As Integer = 1 To 12
+            DropDownList1.Items.Add(i)
+        Next
+        DropDownList1.Text = b
+
+        For k As Integer = 1 To 31
+            DropDownList2.Items.Add(k)
+        Next
+        DropDownList2.Text = a
+
+
+        For j As Integer = y To x
+            DropDownList3.Items.Add(j)
+        Next
+        DropDownList3.Text = x
+
+
+
+
+    End Sub
+   
+End Class

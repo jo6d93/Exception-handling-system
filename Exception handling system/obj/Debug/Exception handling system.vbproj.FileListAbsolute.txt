@@ -1,0 +1,598 @@
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0615\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0621\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0622\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - mail_text\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0625\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0626\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0627\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0627 -美化版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0628 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -美化中、MAIL建立版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0629 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0702 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0703 -class修改後可上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0704-上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0704-權限重整版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0705-權限重整版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0705-上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0706-上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0706-內容花式\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0708-內容樣式\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版 - dr(供應商) + 到貨時間異常\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0708上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0709修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0710修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0713修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0716修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0717修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0717待上線\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0718異動調整開發 - 複製\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0719到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0720到貨進度一覽修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0720修改中 - 上課\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0722上線中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0723上線中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0724上線中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0725修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0726修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0726待上線0340\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0726上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0730修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0731修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 0731上線版\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 1005\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.Cache
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system - 1008\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\obj\Debug\Exception handling system.vbproj.CoreCompileInputs.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\obj\Debug\Exception handling system.vbproj.CoreCompileInputs.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1210修改中\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\obj\Debug\Exception handling system.vbprojResolveAssemblyReference.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\obj\Debug\Exception handling system.vbproj.CoreCompileInputs.cache
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\進貨異常處理系統\進貨進度網頁\Exception handling system - 1220\Exception handling system\obj\Debug\Exception handling system.pdb
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\bin\Exception handling system.dll.config
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\bin\Exception handling system.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\bin\Exception handling system.pdb
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\bin\Exception handling system.xml
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\bin\MSExchange.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\obj\Debug\Exception handling system.vbprojAssemblyReference.cache
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\obj\Debug\Exception handling system.vbproj.CopyComplete
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\obj\Debug\Exception handling system.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\obj\Debug\Exception handling system.xml
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 0210\Exception handling system\obj\Debug\Exception handling system.pdb
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\bin\Exception handling system.dll.config
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\bin\Exception handling system.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\bin\Exception handling system.pdb
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\bin\Exception handling system.xml
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\bin\MSExchange.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\obj\Debug\Exception handling system.vbprojAssemblyReference.cache
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\obj\Debug\Exception handling system.vbproj.CopyComplete
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\obj\Debug\Exception handling system.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\obj\Debug\Exception handling system.xml
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1020\Exception handling system\obj\Debug\Exception handling system.pdb
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\bin\Exception handling system.dll.config
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\bin\Exception handling system.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\bin\Exception handling system.pdb
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\bin\Exception handling system.xml
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\bin\MSExchange.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\obj\Debug\Exception handling system.vbprojAssemblyReference.cache
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\obj\Debug\Exception handling system.vbproj.CopyComplete
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\obj\Debug\Exception handling system.dll
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\obj\Debug\Exception handling system.xml
+D:\018051\桌面\程式\進貨異常處理系統\進貨進度網頁\Exception handling system - 1022\Exception handling system\obj\Debug\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.dll.config
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.pdb
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\bin\MSExchange.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbprojAssemblyReference.cache
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbproj.CoreCompileInputs.cache
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbproj.CopyComplete
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.dll
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.xml
+C:\Users\tw018051\Desktop\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.pdb
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\bin\Exception handling system.dll.config
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\bin\Exception handling system.dll
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\bin\Exception handling system.pdb
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\bin\Exception handling system.xml
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\bin\MSExchange.dll
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbproj.AssemblyReference.cache
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbproj.CoreCompileInputs.cache
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.vbproj.CopyComplete
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.dll
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.xml
+\\172.30.4.101\Cloud\黃韋凱\程式\使用中的程式\Web\進貨進度網頁\Exception handling system220726\Exception handling system\obj\Debug\Exception handling system.pdb
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.dll.config
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.pdb
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Exception handling system.xml
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Microsoft.Exchange.WebServices.Auth.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\Microsoft.Exchange.WebServices.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\bin\MSExchange.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exception handling system.vbproj.AssemblyReference.cache
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exception_handling_system.Resources.resources
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exception handling system.vbproj.GenerateResource.cache
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exception handling system.vbproj.CoreCompileInputs.cache
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exceptio.63306424.Up2Date
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exception handling system.dll
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exception handling system.xml
+X:\IS\weikai\程式相關\Programs\程式\使用中的程式\Web\進貨進度網頁\Exception handling system251017\Exception handling system\obj\Debug\Exception handling system.pdb

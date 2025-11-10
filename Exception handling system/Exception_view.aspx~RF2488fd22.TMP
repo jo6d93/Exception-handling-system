@@ -1,0 +1,165 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="Exception_view.aspx.vb" Inherits="Exception_handling_system.Exception_view" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     <title>進貨異常處理系統</title>
+
+     <script src="jquery-1.3.2-vsdoc.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var div1 = $("#left");
+            var div2 = $("#right");
+
+            var h = GetMaxHeight(div1, div2);
+            div1.css("height", h);
+            div2.css("height", h);
+        });
+        function GetMaxHeight(div1, div2) {
+            var h1 = $(div1).attr("offsetHeight");
+            var h2 = $(div2).attr("offsetHeight");
+            return Math.max(h1, h2);
+        }
+    </script>
+ <style >
+        body{background: url(Image/point.bmp) left top  repeat #ffffff ;}
+      
+</style>
+</head>   
+<body>
+    <form id="form1" runat="server" style="font-family:Meiryo ">      
+             
+        
+        
+        <asp:Panel ID="Panel3" runat="server" Height="102px">
+ <div id="left" style=" float: left; width: 431px; overflow: hidden; height: 90px;">
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/Image/Denso_Logo_Tagline_Red_HiRes.png" Width="200px" />
+     <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="25px" ForeColor="Black"  Text="進貨異常處理系統" Width="216px"  Height="27px"></asp:Label>
+            
+        </div>
+        <div id="right" style=" margin-right :0px; float :right; ">
+             <br />
+             <br />
+<asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/Image/1.bmp"  OnClick ="ImageButton1_Click"  Height="45px" Width="130px"/>           
+<asp:ImageButton ID="ImageButton2" runat="server" ImageUrl="~/Image/2.bmp" OnClick="ImageButton2_Click" Height="45px" Width="130px" />             
+<asp:ImageButton ID="ImageButton3" runat="server" ImageUrl="~/Image/3.bmp" OnClick="ImageButton3_Click" Height="45px" Width="130px" />
+<asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="~/Image/4.bmp" OnClick="ImageButton4_Click"  Height="45px" Width="130px"/>   
+            
+        </div>                       
+        </asp:Panel>   
+      
+
+        <asp:Panel ID="Panel2" runat="server" HorizontalAlign="Right" Width="100%" >
+   <asp:Table ID="Table1" runat="server" HorizontalAlign="Right">
+                <asp:TableRow runat="server">
+                    <asp:TableCell runat="server"><asp:Label ID="user_name" runat="server" Text="" Font-Size="X-Large"></asp:Label>
+</asp:TableCell>
+                    <asp:TableCell runat="server"><asp:Label ID="Label3" runat="server" Text="您好:" Font-Size="X-Large"></asp:Label>
+</asp:TableCell>
+                    <asp:TableCell runat="server"><asp:LinkButton ID="LinkButton1" runat="server" Font-Size="X-Large" >登出</asp:LinkButton>
+</asp:TableCell>
+                </asp:TableRow>
+                <asp:TableRow runat="server">
+                    <asp:TableCell runat="server" ColumnSpan="1">
+<asp:LinkButton ID="LinkButton7" runat="server" Font-Size="Large" Visible="False">新增使用者</asp:LinkButton>
+
+                    </asp:TableCell>
+                    <asp:TableCell runat="server" ColumnSpan="2">
+<asp:LinkButton ID="LinkButton6" runat="server" Font-Size="Large">修改密碼</asp:LinkButton>
+
+                    </asp:TableCell>
+                </asp:TableRow>
+            </asp:Table>
+        </asp:Panel>        
+        <asp:Table ID="Table4" runat="server" HorizontalAlign="Center" Width="100%" Height="23px">
+            <asp:TableRow runat="server" HorizontalAlign="Center">
+                <asp:TableCell runat="server"><asp:Label ID="Label4" runat="server" Text="異常顯示" Font-Size="30px"></asp:Label></asp:TableCell>
+            </asp:TableRow>
+        </asp:Table>             
+        <asp:Panel ID="Panel1" runat="server" Height="307px" HorizontalAlign="Center" Width="100%">
+        
+            <asp:DropDownList ID="DropDownList3" runat="server" Width="60px">
+            </asp:DropDownList>
+            <asp:Label ID="Label7" runat="server" Text="年"></asp:Label>
+            <asp:DropDownList ID="DropDownList2" runat="server" AutoPostBack="True" Width="60px">
+            </asp:DropDownList>
+            <asp:Label ID="Label5" runat="server" Text="月"></asp:Label>
+            <asp:DropDownList ID="DropDownList1" runat="server" Width="60px">
+            </asp:DropDownList>
+            <asp:Label ID="Label6" runat="server" Text="日"></asp:Label>
+            <asp:Button ID="btn_select" runat="server" Text="查詢" />
+                       
+           <asp:GridView ID="GridView1" runat="server" Width="90%" CellPadding="4" ForeColor="Black" GridLines="Horizontal"  AllowPaging ="True" OnPageIndexChanging ="GridView1_PageIndexChanging"
+            HorizontalAlign="Center" AutoGenerateColumns="False"  OnRowCommand="GridView1_RowCommand"  BackColor="White" BorderColor="#CCCCCC" BorderStyle="Solid" BorderWidth="1px" >
+                         
+                           <Columns>
+                <asp:TemplateField HeaderText="項次" >
+                    <ItemTemplate >
+                        <asp:Label ID ="no" runat ="server" Text='<%#Eval("no")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="30px" HorizontalAlign="Center" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="異常種類" >
+                    <ItemTemplate >
+                        <asp:Label ID ="異常種類" runat ="server" Text='<%#Eval("異常種類")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="100px" HorizontalAlign="Center" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                 <asp:TemplateField HeaderText="異常對象" >
+                    <ItemTemplate >
+                        <asp:Label ID ="異常對象" runat ="server" Text='<%#Eval("異常對象")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="200px" HorizontalAlign="Center" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                 <asp:TemplateField HeaderText="計畫時間" >
+                    <ItemTemplate >
+                        <asp:Label ID ="計畫時間" runat ="server" Text='<%#Eval("計畫時間")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="80px" HorizontalAlign="Center" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                 <asp:TemplateField HeaderText="實際時間" >
+                    <ItemTemplate >
+                        <asp:Label ID ="實際時間" runat ="server" Text='<%#Eval("實際時間")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="80px" HorizontalAlign="Center" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                 <asp:TemplateField HeaderText="異常調查原因" >
+                    <ItemTemplate >
+                        <asp:Label ID ="異常調查原因" runat ="server" Text='<%#Eval("異常調查原因")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="100px" HorizontalAlign="Left" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                 <asp:TemplateField HeaderText="再發防止" >
+                    <ItemTemplate >
+                        <asp:Label ID ="再發防止" runat ="server" Text='<%#Eval("再發防止")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="100px" HorizontalAlign="Left" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="責任部屬" >
+                    <ItemTemplate >
+                        <asp:Label ID ="責任部屬" runat ="server" Text='<%#Eval("責任部屬")%>'></asp:Label>
+                    </ItemTemplate>
+                    <ItemStyle Width ="100px" HorizontalAlign="Left" VerticalAlign="Middle" />
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="" >
+                    <ItemTemplate >
+                        <asp:Button ID="detail" runat="server"  CommandArgument='<%#Eval("異常編號")%>' Text  ="詳情" CommandName="detail" />
+                    </ItemTemplate>
+                    <ItemStyle HorizontalAlign="Center" VerticalAlign="Middle" Width="60px" />
+                </asp:TemplateField>
+                       
+            </Columns>
+           <FooterStyle BackColor="#CCCC99" ForeColor="Black" />
+            <HeaderStyle BackColor="#333333" Font-Bold="True" ForeColor="White" />
+            <PagerStyle BackColor="White" ForeColor="Black" HorizontalAlign="Right" />
+            <SelectedRowStyle BackColor="#CC3333" Font-Bold="True" ForeColor="White" />
+            <SortedAscendingCellStyle BackColor="#F7F7F7" />
+            <SortedAscendingHeaderStyle BackColor="#4B4B4B" />
+            <SortedDescendingCellStyle BackColor="#E5E5E5" />
+            <SortedDescendingHeaderStyle BackColor="#242121" />
+        </asp:GridView>
+        </asp:Panel>
+    </form>
+</body>
+</html>

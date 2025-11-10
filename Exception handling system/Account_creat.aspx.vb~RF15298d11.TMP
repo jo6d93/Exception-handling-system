@@ -1,0 +1,59 @@
+﻿Public Class Account_creat
+    Inherits System.Web.UI.Page
+    Dim ds As DataSet
+    Dim ds1 As DataSet
+    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        user_name1()
+    End Sub
+
+    Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
+        Session("Exception") = ""
+        Response.Redirect("Default.aspx")
+
+    End Sub
+    Private Sub user_name1() '權限
+        Try
+            Dim sql As String = "select user_id ,user_name ,user_dept ,manager  from Exception_Login  where user_id = '" & Session("user_id").Trim() & "'"
+            ds = Db.Get_DataSet(sql)
+            Dim dr As DataRow = ds.Tables(0).Rows(0)
+            If ds.Tables(0).Rows.Count > 0 Then
+                user_name.Text = dr("user_name").ToString()
+                Session("user_name") = dr("user_name").ToString()
+                Session("user_id") = dr("user_id").ToString()
+            End If
+            If dr("manager") = 1 Then  '上線依需求刪除
+                LinkButton5.Visible = True
+            End If
+
+        Catch ex As Exception
+            Dim str As String = ex.Message
+        End Try
+    End Sub
+    Protected Sub Button1_Click(sender As Object, e As EventArgs)
+        If TextBox1.Text <> "" And TextBox2.Text <> "" And TextBox3.Text <> "" And TextBox4.Text <> "" And TextBox6.Text <> "" Then
+            Dim sql As String = "select user_id from Exception_Login"
+            ds = Db.Get_DataSet(sql)
+            For k As Integer = 0 To ds.Tables(0).Rows.Count - 1
+                Dim dr As DataRow = ds.Tables(0).Rows(k)
+                If dr("user_id") = TextBox1.Text.ToString.Trim() Then
+                    Label9.Visible = True
+                    Label9.Text = "此帳號已存在"
+                Else
+                    Dim sql1 As String = "insert into Exception_Login(user_id,user_pw,user_name,user_dept,manager,user_mail)values('" & TextBox1.Text.ToString.Trim() & "','" & TextBox3.Text.ToString.Trim() & "','" & TextBox2.Text.ToString.Trim() & "','" & TextBox4.Text.ToString.Trim() & "','" & TextBox5.Text.ToString.Trim() & "','" & TextBox6.Text.ToString.Trim() & "')"
+                    ds1 = Db.Get_DataSet(sql1)
+                    Label9.Visible = True
+                    Label9.Text = "帳號已新增完成"
+                    TextBox1.Text = "" '帳號
+                    TextBox2.Text = "" '名稱
+                    TextBox3.Text = "" '密碼
+                    TextBox4.Text = "" '部門
+                    TextBox5.Text = "" '權限
+                    TextBox6.Text = "" 'mail
+                End If
+            Next
+        Else
+            Label9.Visible = True
+            Label9.Text = "欄位不可為空白"
+        End If
+    End Sub
+End Class
